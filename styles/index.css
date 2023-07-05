@@ -2,5 +2,9 @@
     background-color: powderblue;margin: 10px ;padding: 5px;
 }
 h1 {
-    background-color: rgb(230, 96, 96);border-radius: 5cm;text-align: center;
+    background-color: rgb(230, 96, 96);border-radius: 500px;text-align: center;margin: 70px; padding: 20px;
+}
+p {
+    background-color: rgb(43, 93, 164);
+    color:black;border-radius: 10px; margin: 0;padding: 20px;font-size: larger;text-align: justify;
 }
