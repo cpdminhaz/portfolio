@@ -1,10 +1,19 @@
 * {
-    background-color: powderblue;margin: 0 ;padding: 0;
+    margin: 0 ;padding: 0;
 }
 h1 {
-    background-color: rgb(230, 96, 96);border-radius: 500px;text-align: center;margin-top:5px;margin-bottom: 10px;margin-left: 20%;margin-right: 20%; padding: 0px;padding: 10px;
+    background-color: rgba(94, 224, 103, 0.74);border-radius: 500px;text-align: center; height: 35px; width: 40%;color: rgba(255, 255, 255, 0.86)
+    ;
 }
 p {
-    background-color: rgb(43, 93, 164);
+    background-color: rgb(104, 219, 111);
     color:rgb(255, 255, 255);border-radius: 10px; margin: 0;padding: 20px;font-size: larger;text-align: justify;font-family: 'Times New Roman';
+}
+.header {
+    height: 35px; width: 100%; background-color: rgb(43, 38, 38);display: flex; justify-content: space-evenly
+    ;align-items: 
+    center;
+}
+.logo-and-socials {
+    background-color: powderblue;height: 600px; width: 100%; 
 }
