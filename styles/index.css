@@ -2,12 +2,11 @@
     margin: 0 ;padding: 0;
 }
 h1 {
-    text-align:left; height: 35px;color: rgba(255, 255, 255, 0.86)
-    ;padding-left: 10px;font-family:Impact, sans-serif ;text-decoration: solid;color: rgb(131, 166, 255);
+    text-align:left; height: 35px;color:
+    ;padding-left: 10px;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;text-decoration: solid;color: rgb(255, 0, 0);padding-left: 0;font-size: xx-large;
 }
-p {
-    background-color: rgb(104, 219, 111);
-    color:rgb(255, 255, 255);border-radius: 10px; margin: 0;padding: 20px;font-size: larger;text-align: justify;font-family: 'Times New Roman';
+.about {
+    text-align: justify;font-family: 'Times New Roman';color:aliceblue;font-size: 20px;
 }
 .header {
     height: 50px; width: 100%; background-color:rgb(48, 46, 46);display: flex;justify-content:space-between
@@ -27,16 +26,24 @@ p {
 }
 
 .items {
-    background-color: rgb(92, 223, 56);height: 700px;width: 100%;display: flex;
+    height: 700px;width: 100%;display: flex;
 }
 .left {
-    background-color: rgb(255, 255, 255);height: 30%;width: 90%;display: flex; margin: 10px;
+    background-color: rgba(255, 255, 255, 0);height: 30%;width: 90%;display: flex; margin: 10px;justify-content: center;justify-content: center;
 }
 .right {
     background-color: rgb(255, 255, 255);height: 35%;width: 45%;
 }
 
 .details {
-    background-color: rgb(255, 255, 255);height: 90%;width: 45%;margin-right: 10px;
+    background-color: rgb(255, 255, 255);height: 90%;width: 45%;margin-right: 10px;display:flex;justify-content:  center;flex-direction: column;
 }
-
+.button {
+    height: 60px;width: 180px;color: white;background-color: red;font-size: 25px;font-family: Verdana, Geneva, Tahoma, sans-serif;border-radius: 10px; margin: 0 auto;
+}
+p {
+    text-align: left;padding: 10px;font-size: large;text-align: justify;
+}
+.margin {
+    margin:0 auto;
+}
