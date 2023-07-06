@@ -9,20 +9,20 @@ h1 {
     text-align: justify;font-family: 'Times New Roman';color:aliceblue;font-size: 20px;
 }
 .header {
-    height: 50px; width: 100%; background-color:rgb(48, 46, 46);display: flex;justify-content:space-between
+    height: 70px; width: 100%; background-color:rgb(48, 46, 46);display: flex;justify-content:space-between
     ;align-items: 
     center;
 }
 
 .socials {
     padding-inline: 
-    5px; align-items: center;height: 20px;
+    5px; align-items: center;height: 30px;
 }
 .menus {
     display: inline-block;align-items: center ;color:beige;padding: o;
 }
 .menu {
-    padding-left: 17px;
+    padding-left: 17px;font-size: x-large;
 }
 
 .items {
