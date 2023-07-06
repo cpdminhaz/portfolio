@@ -10,7 +10,7 @@ p {
     color:rgb(255, 255, 255);border-radius: 10px; margin: 0;padding: 20px;font-size: larger;text-align: justify;font-family: 'Times New Roman';
 }
 .header {
-    height: 50px; width: 100%; background-color: rgb(43, 38, 38);display: flex;justify-content:space-between
+    height: 50px; width: 100%; background-color:rgb(48, 46, 46);display: flex;justify-content:space-between
     ;align-items: 
     center;
 }
@@ -25,3 +25,18 @@ p {
 .menu {
     padding-left: 17px;
 }
+
+.items {
+    background-color: rgb(92, 223, 56);height: 700px;width: 100%;display: flex;
+}
+.left {
+    background-color: rgb(255, 255, 255);height: 30%;width: 90%;display: flex; margin: 10px;
+}
+.right {
+    background-color: rgb(255, 255, 255);height: 35%;width: 45%;
+}
+
+.details {
+    background-color: rgb(255, 255, 255);height: 90%;width: 45%;margin-right: 10px;
+}
+
